@@ -1,6 +1,6 @@
 # Advanced-Problem-Solving
 
-Problem
+Problem 1
 
 Problem Statement: Implement ordered set with suitable data structure.
 
@@ -22,7 +22,7 @@ O(log N) to count the number of elements in the set whose values fall into a
 given range.
 
 
-Problem
+Problem 2
 
 In a sorted array of integers , median of the array is defined as follows
 
@@ -42,7 +42,7 @@ Explanation:​ [ 5 ] median is 5 [ 5 , 7] median is (5+7)/2 [ 5 7 1 ] sorted ar
 [1 5 7 ] median is 5 [5 7 1 6] sorted array is [1 5 6 7] median is (5 + 6)/2.
 
 
-Problem
+Problem 3
 
 Problem Statement : Nth no. of a unsorted array
 
@@ -57,7 +57,7 @@ Testing: Time your function using time.h and compare it with the Standard Librar
 nth_element().
 
 
-Problem
+Problem 4
 
 Problem Statement: Find Articulation point in a graph
 
@@ -67,7 +67,7 @@ increases number of connected components.
 NOTE: You are not allowed to use STLs or any other inbuilt libraries.
 
 
-Problem
+Problem 5
 
 Problem Statement: Implementation of suffix array
 
@@ -86,7 +86,7 @@ S = “dcabca”
 Among all lexicographically minimum is “abcadc” .
 
 
-Problem
+Problem 6
 
 Problem Statement: Trie Implementation
 
@@ -110,7 +110,7 @@ x = 4
 Maximum xor of x is with 3, therefore answer is 4 xor 3 = 7
 
 
-Problem
+Problem 7
 
 External Sorting
 
